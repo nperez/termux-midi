@@ -1,0 +1,7 @@
+Package: termux-midi-soundfont
+Version: 1.0.0
+Architecture: all
+Maintainer: Andromiter
+Depends: termux-midi
+Description: Default General MIDI soundfont for termux-midi
+ FluidR3Mono GM soundfont (23MB) for use with termux-midi.

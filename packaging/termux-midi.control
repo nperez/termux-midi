@@ -1,0 +1,11 @@
+Package: termux-midi
+Version: 1.0.0
+Architecture: aarch64
+Maintainer: Andromiter
+Depends: alsa-lib
+Recommends: termux-midi-soundfont
+Homepage: https://github.com/andromiter/termux-midi
+Description: MIDI synthesizer for Termux
+ A command-line MIDI synthesizer using TinySoundFont for SF2/SF3
+ synthesis and OpenSL ES for audio output. Supports MIDI file playback,
+ real-time MIDI input via ALSA sequencer, and text-based control.
